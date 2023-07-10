@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello, I'm yuvkun, a 22-year-old tech enthusiast <br><br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning react <br>- ⚡ In my free time I love to play games</p>
+<p align="left">Hello, I'm yuvkun, a 22-year-old tech enthusiast <br><br>- 🔭 I’m working at F1Soft International as a SOC Intern<br>- 📚 I'm currently learning SIEM and WAF <br>- ⚡ In my free time I love to play games</p>
 
 ###
 
